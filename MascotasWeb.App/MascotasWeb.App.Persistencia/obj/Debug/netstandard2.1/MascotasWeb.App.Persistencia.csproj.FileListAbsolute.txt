@@ -1,0 +1,12 @@
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\bin\Debug\netstandard2.1\MascotasWeb.App.Persistencia.deps.json
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\bin\Debug\netstandard2.1\MascotasWeb.App.Persistencia.dll
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\bin\Debug\netstandard2.1\MascotasWeb.App.Persistencia.pdb
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\bin\Debug\netstandard2.1\MascotasWeb.App.Dominio.dll
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\bin\Debug\netstandard2.1\MascotasWeb.App.Dominio.pdb
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\obj\Debug\netstandard2.1\MascotasWeb.App.Persistencia.csprojAssemblyReference.cache
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\obj\Debug\netstandard2.1\MascotasWeb.App.Persistencia.AssemblyInfoInputs.cache
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\obj\Debug\netstandard2.1\MascotasWeb.App.Persistencia.AssemblyInfo.cs
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\obj\Debug\netstandard2.1\MascotasWeb.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\obj\Debug\netstandard2.1\MascotasWeb.App.Persistencia.csproj.CopyComplete
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\obj\Debug\netstandard2.1\MascotasWeb.App.Persistencia.dll
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Persistencia\obj\Debug\netstandard2.1\MascotasWeb.App.Persistencia.pdb

@@ -1,0 +1,12 @@
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\bin\Debug\netstandard2.1\MascotasWeb.App.Consola.deps.json
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\bin\Debug\netstandard2.1\MascotasWeb.App.Consola.dll
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\bin\Debug\netstandard2.1\MascotasWeb.App.Consola.pdb
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\bin\Debug\netstandard2.1\MascotasWeb.App.Dominio.dll
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\bin\Debug\netstandard2.1\MascotasWeb.App.Dominio.pdb
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\obj\Debug\netstandard2.1\MascotasWeb.App.Consola.csprojAssemblyReference.cache
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\obj\Debug\netstandard2.1\MascotasWeb.App.Consola.AssemblyInfoInputs.cache
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\obj\Debug\netstandard2.1\MascotasWeb.App.Consola.AssemblyInfo.cs
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\obj\Debug\netstandard2.1\MascotasWeb.App.Consola.csproj.CoreCompileInputs.cache
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\obj\Debug\netstandard2.1\MascotasWeb.App.Consola.csproj.CopyComplete
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\obj\Debug\netstandard2.1\MascotasWeb.App.Consola.dll
+C:\Mascotas\MascotasWeb.App\MascotasWeb.App.Consola\obj\Debug\netstandard2.1\MascotasWeb.App.Consola.pdb
